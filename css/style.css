@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-color: #7e9d16;
+    color: black;
+
+
+}
+.container{
+    border: 3px solid aqua;
+    border-radius: 25px;
+    background-color: rgba(25, 16, 16, 0.085);
+    color: white;
+    
+}
+.head{
+    font-size: 2rem;
+    color: #93f4e0;
+    
+}
+li{
+    list-style: none;
+    padding-top: 10px;
+    font-size: 40px;
+
+}
+.week-1{
+    display: none;
+    /* font-size: 60px; */
+};
+.hone{
+    font-size: 60px;
+    text-decoration: underline;
+}
